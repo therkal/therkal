@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Kenneth Martens.
 - 👀 I’m interested in microservices and event-driven distributed architectures, reactive programming and DevOps
-- 🌱 I’m currently learning Reactive programming in Quarkus, KafkaStreams and Graph Databases
 - 💞️ I’m looking to collaborate on anything that's an event-driven architecture.
 
 <!---
